@@ -8,5 +8,5 @@ PAYMENT_HOST: payment.app-dev.pavanaws.online
 MYSQL_HOST: mysql-dev.pavanaws.online
 RABBITMQ_HOST: rabbitmq-dev.pavanaws.online
 DISPATCH_HOST: dispatch.app-dev.pavanaws.online
-NEXUS_URL: http://3.93.174.72:8081/repository
+NEXUS_URL: http://172.31.21.236:8081/repository
 group_id: "com/roboshop"
